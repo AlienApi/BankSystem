@@ -10,7 +10,7 @@ life, im going to write my first one now.
 
 ## Installation
 
-Make sure to have a C complier installed
+Make sure to have a [C](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download/) complier installed
 
 ```bash
 git clone https://github.com/AlienApi/BankSystem.git
