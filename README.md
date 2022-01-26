@@ -32,6 +32,6 @@ gcc BankSystem.c -o Run
 ## Notes
 
 Using the menu should be straightforward
-keep in mind that when you create a new account
+keep in mind that when you first become a user
 you will have 0 bank accounts
 
